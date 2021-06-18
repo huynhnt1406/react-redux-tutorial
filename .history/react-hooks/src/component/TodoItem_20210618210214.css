@@ -1,0 +1,10 @@
+.completed{
+    margin:5px;
+    padding:5px;
+    background-color:green;
+}
+p{
+    margin:5px;
+    padding:5px;
+    background-color: rebeccapurple;
+}

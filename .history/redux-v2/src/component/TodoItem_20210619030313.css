@@ -1,0 +1,10 @@
+p{
+    margin:5px;
+    padding:5px;
+    background-color:gray;
+}
+.completed{
+    margin:5px;
+    padding:5px;
+    background-color: forestgreen;
+}
